@@ -20,7 +20,7 @@
         "removeComments": true,
         "resolveJsonModule": true,
         "strict": true,
-        "target": "ES2018"
+        "target": "ES2022"
     }
   }
 
