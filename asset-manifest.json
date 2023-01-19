@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kadr/static/css/main.073c9b0a.css",
+    "main.js": "/Kadr/static/js/main.70c9e339.js",
+    "index.html": "/Kadr/index.html",
+    "main.073c9b0a.css.map": "/Kadr/static/css/main.073c9b0a.css.map",
+    "main.70c9e339.js.map": "/Kadr/static/js/main.70c9e339.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.70c9e339.js"
+  ]
+}
