@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Kadr.am-react-project/static/css/main.073c9b0a.css",
-    "main.js": "/Kadr.am-react-project/static/js/main.90853a7e.js",
-    "index.html": "/Kadr.am-react-project/index.html",
-    "main.073c9b0a.css.map": "/Kadr.am-react-project/static/css/main.073c9b0a.css.map",
-    "main.90853a7e.js.map": "/Kadr.am-react-project/static/js/main.90853a7e.js.map"
+    "main.css": "/Kadr/static/css/main.073c9b0a.css",
+    "main.js": "/Kadr/static/js/main.90853a7e.js",
+    "index.html": "/Kadr/index.html",
+    "main.073c9b0a.css.map": "/Kadr/static/css/main.073c9b0a.css.map",
+    "main.90853a7e.js.map": "/Kadr/static/js/main.90853a7e.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
