@@ -18,9 +18,12 @@
         "noUnusedParameters": false,
         "preserveConstEnums": true,
         "removeComments": true,
+        "typeRoots": ["src/types", "./types", "./node_modules/@types"],
+        "lib": ["esnext", "dom"],
+        "noEmitOnError": true,
+        "outDir": "dist",
         "resolveJsonModule": true,
         "strict": true,
-        "target": "ES2018"
     }
   }
 

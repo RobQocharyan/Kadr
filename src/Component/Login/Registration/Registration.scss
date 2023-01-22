@@ -1,0 +1,54 @@
+
+$font-arm:'Montserrat_am3-Bold', sans-serif;
+$gray:rgba(245, 245, 245, 1);
+$white:rgba(255, 255, 255, 1);
+$blue:rgba(5, 129, 135, 1);
+$blue-hover:rgba(2, 99, 104, 1);
+$blue-pressed:rgba(0, 74, 78, 1);
+$black:
+rgba(0, 0, 0, 0.8);
+$gray-text:
+rgba(77, 77, 77, 1);
+
+
+.registration{  
+    background-color: red;
+    width: 100%;
+    font-family: $font-arm;
+    position: relative;
+    @media screen and (max-width:576px) {
+        &__header{
+            height: 67px;
+            background-color: $gray;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: sticky;
+            top: 0;
+        }
+
+        &__footer{
+            padding: 25px 16px 42px 16px;
+            background-color: $white;
+            box-shadow: 0 4px 4px 0 rgba(5, 129, 135, 0.15);
+
+            .footer__name{
+                text-align: center;
+                h1{
+                    font-weight: 500;
+                    font-size: 19px;
+                    line-height: 23.16px;
+                    color: $black;
+                }
+
+                h4{
+                    font-weight: 400;
+                    font-size: 10px;
+                    line-height: 12.19px;
+                    color: $gray-text;
+                    margin-top: 15px;
+                }
+            }
+        }
+    }
+}

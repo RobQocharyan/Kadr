@@ -1,11 +1,15 @@
 import React from 'react';
-import './App.css';
+import './App.scss';
+import { Header } from './Component/Header/Header';
+import { Footer } from './Component/Footer/Footer';
+import { Registration } from './Component/Login/Registration/Registration';
 
 function App() {
   return (
     <div className="App">
-      <h1>Lets  Goo!! </h1>
-      <h1>Welcome Kadr.am</h1>
+      <Header />
+      <div></div>
+      <Footer />
     </div>
   );
 }
