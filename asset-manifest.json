@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Kadr/static/css/main.eec840a8.css",
-    "main.js": "/Kadr/static/js/main.074f5ae2.js",
+    "main.css": "/Kadr/static/css/main.4cab6bdf.css",
+    "main.js": "/Kadr/static/js/main.f0f8ec62.js",
     "index.html": "/Kadr/index.html",
-    "main.eec840a8.css.map": "/Kadr/static/css/main.eec840a8.css.map",
-    "main.074f5ae2.js.map": "/Kadr/static/js/main.074f5ae2.js.map"
+    "main.4cab6bdf.css.map": "/Kadr/static/css/main.4cab6bdf.css.map",
+    "main.f0f8ec62.js.map": "/Kadr/static/js/main.f0f8ec62.js.map"
   },
   "entrypoints": [
-    "static/css/main.eec840a8.css",
-    "static/js/main.074f5ae2.js"
+    "static/css/main.4cab6bdf.css",
+    "static/js/main.f0f8ec62.js"
   ]
 }
